@@ -1,0 +1,37 @@
+Found: models/gemini-2.5-flash
+Found: models/gemini-2.5-pro
+Found: models/gemini-2.0-flash
+Found: models/gemini-2.0-flash-001
+Found: models/gemini-2.0-flash-lite-001
+Found: models/gemini-2.0-flash-lite
+Found: models/gemini-2.5-flash-preview-tts
+Found: models/gemini-2.5-pro-preview-tts
+Found: models/gemma-3-1b-it
+Found: models/gemma-3-4b-it
+Found: models/gemma-3-12b-it
+Found: models/gemma-3-27b-it
+Found: models/gemma-3n-e4b-it
+Found: models/gemma-3n-e2b-it
+Found: models/gemini-flash-latest
+Found: models/gemini-flash-lite-latest
+Found: models/gemini-pro-latest
+Found: models/gemini-2.5-flash-lite
+Found: models/gemini-2.5-flash-image
+Found: models/gemini-2.5-flash-lite-preview-09-2025
+Found: models/gemini-3-pro-preview
+Found: models/gemini-3-flash-preview
+Found: models/gemini-3.1-pro-preview
+Found: models/gemini-3.1-pro-preview-customtools
+Found: models/gemini-3.1-flash-lite-preview
+Found: models/gemini-3-pro-image-preview
+Found: models/nano-banana-pro-preview
+Found: models/gemini-3.1-flash-image-preview
+Found: models/gemini-robotics-er-1.5-preview
+Found: models/gemini-2.5-computer-use-preview-10-2025
+Found: models/deep-research-pro-preview-12-2025
+
+Testing gemini-1.5-flash...
+Failed gemini-1.5-flash: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Testing models/gemini-2.5-flash...
+Success: Hello! How can I help you today?
