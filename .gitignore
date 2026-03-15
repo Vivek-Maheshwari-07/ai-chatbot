@@ -2,3 +2,7 @@ __pycache__/
 .vscode/
 .env
 *.pyc
+models.txt
+requirements.txt
+text.gemini.py
+text_output.txt
